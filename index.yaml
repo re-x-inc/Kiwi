@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  kiwi:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2024-04-09T05:27:52.031662224Z"
+    description: Kiwi TCMS - open source test management
+    digest: 7efe51bbd033c3c3d6cd90bd16e122141c722b07ca6a44acd97467389f37fe1b
+    name: kiwi
+    type: application
+    urls:
+    - https://github.com/re-x-inc/Kiwi/releases/download/kiwi-0.1.0/kiwi-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-09T05:27:52.03191382Z"
